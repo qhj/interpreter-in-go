@@ -15,6 +15,7 @@
         packages = with pkgs; [
           fish
           go
+          gopls
         ];
 
         shellHook = with pkgs; ''

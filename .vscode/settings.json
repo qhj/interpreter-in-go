@@ -1,9 +1,0 @@
-{
-  "terminal.integrated.profiles.linux": {
-    "nix-dev": {
-      "path": "bash",
-      "args": ["-c", "nix develop"]
-    }
-  },
-  "terminal.integrated.defaultProfile.linux": "nix-dev"
-}
